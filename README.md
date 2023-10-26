@@ -1,7 +1,7 @@
 
 # CP2F-CSV-Transformer
 
-## Overview
+## Description
 
 This Python script is designed to transform raw CSV data from CP2F evaluations into a more readable and standardized format. The script reads the input CSV, filters and renames fields, reorders columns, and then saves the transformed data into a new CSV file.
 
